@@ -1,0 +1,69 @@
+{
+    "f185bfa3-6db9-436e-a5e1-22e7bb76cd3f": {
+        "title": "Chat 2025-07-13 17:30",
+        "messages": []
+    },
+    "6ff53cd5-8378-4798-9e09-dfbd03f8e30f": {
+        "title": "Chat 2025-07-13 17:30",
+        "messages": []
+    },
+    "ad5759a4-2fa2-4c80-b222-2a72d2f5e841": {
+        "title": "Chat 2025-07-13 17:30",
+        "messages": []
+    },
+    "950ae138-71ba-4a30-be9c-3500d5bf9125": {
+        "title": "New Chat 2025-07-13 17:37",
+        "messages": []
+    },
+    "fd1ca1a2-23d7-4206-9e4f-4f5266fac22e": {
+        "title": "New Chat 2025-07-13 17:38",
+        "messages": []
+    },
+    "433a4bfe-12fb-401e-bfd3-5a7353960daf": {
+        "title": "New Chat 2025-07-13 17:38",
+        "messages": []
+    },
+    "98d27a83-7e5f-44e2-b93c-1cc613867017": {
+        "title": "New Chat 2025-07-13 17:39",
+        "messages": []
+    },
+    "631ed8d2-7cce-4bcc-befc-3e9881f12a81": {
+        "title": "New Chat 2025-07-13 19:14",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Error communicating with AI: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBwGT1Ui3gXRh8gKqzcesRz7R-xEvCLyXw"
+            }
+        ]
+    },
+    "d309e7c6-ecd4-4227-9f59-416433612196": {
+        "title": "New Chat 2025-07-13 19:21",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Error communicating with AI: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBwGT1Ui3gXRh8gKqzcesRz7R-xEvCLyXw"
+            }
+        ]
+    },
+    "9e05cb89-5cf0-4e76-8358-0abb481f3f25": {
+        "title": "New Chat 2025-07-13 19:21",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Error communicating with AI: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBwGT1Ui3gXRh8gKqzcesRz7R-xEvCLyXw"
+            }
+        ]
+    }
+}
